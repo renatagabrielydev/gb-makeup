@@ -42,24 +42,6 @@ Esse projeto foi criado com fins de estudo e prática, buscando aprimorar minhas
 
 ---
 
-## 🔗 Como executar o projeto
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/gb-makeup.git
-```
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd gb-makeup
-```
-
-3. Abra o arquivo `index.html` no navegador.
-
----
-
 ## 💡 Aprendizados
 
 Durante o desenvolvimento deste projeto, pratiquei:
