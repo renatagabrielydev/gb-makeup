@@ -42,16 +42,6 @@ Esse projeto foi criado com fins de estudo e prática, buscando aprimorar minhas
 
 ---
 
-## 📸 Preview
-
-Adicione aqui imagens ou GIFs do projeto.
-
-```md
-![Preview do projeto](./img/preview.png)
-```
-
----
-
 ## 🔗 Como executar o projeto
 
 1. Clone este repositório:
